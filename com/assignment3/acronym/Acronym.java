@@ -1,3 +1,4 @@
+package com.assignment3.acronym;
 public class Acronym {
     public static void main(String[] args) {
         AcronymGenerator generator = new AcronymGenerator();
