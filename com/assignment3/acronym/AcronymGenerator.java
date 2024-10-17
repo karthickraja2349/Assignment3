@@ -1,3 +1,4 @@
+package com.assignment3.acronym;
 public class AcronymGenerator {
     public String generateAcronym(String phrase) {
         StringBuilder acronym = new StringBuilder();
