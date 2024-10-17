@@ -1,4 +1,4 @@
-package com.assignment3;
+package com.assignment3.ticTacToe;
 import java.io.PrintWriter;
 
 public class TicTacToeGame {
