@@ -1,4 +1,4 @@
-package com.assignment3;
+package com.assignment3.pangram;
 import java.util.HashSet;
 import java.util.Set;
 
