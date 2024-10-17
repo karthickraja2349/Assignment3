@@ -1,4 +1,4 @@
-package com.assignment3;
+package com.assignment3.pangram;
 public class Pangram {
     public static void main(String[] args) {
         PangramChecker checker = new PangramChecker();
